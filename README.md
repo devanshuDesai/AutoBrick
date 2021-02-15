@@ -14,7 +14,7 @@ The current Brickification workflow involves:
 3. Entity-relationship definitions in a txt file, to utilize in the turtle file,
 4. a tool called ‘Brick Builder’ to automatically convert the processed data into its turtle file.
 
-*(Add Image Here)*
+![Traditional Framework](https://ibb.co/RNfkYpw)
 
 As symbolized in the figure, the data transformations and most of the API injections and integrations need to be manually done by the user. The BrickBuilder tool is the only component to automate the last part of this workflow. We recognize the research and practical utility of the frameworks already created for use in the old Brickification workload. We don’t seek to reinvent the wheel here but address automation, acceleration and scalability improvements on top of these existing systems.
 
@@ -22,7 +22,7 @@ As symbolized in the figure, the data transformations and most of the API inject
 
 We introduce ‘AutoBrick’, an end-to-end system for automating and accelerating the conversion of point labels into turtle files with Brick terminology and which can be visualized and queried [2](#ref2). The tool takes in a configuration file where users can declaratively specify all details about their data and workload (related to data location, point label format details, and auxiliary parsing details).
 
-*(Add Image Here)*
+![Proposed Framework](https://ibb.co/Ryrvm6M)
 
 AutoBrick infers and automates all needed data transformations to pre-process the point labels and extract relevant details of various units/sensors and categories related to specific building objects. AutoBrick utilizes pre-written / pre-loaded standard ER/RDF specifications and existing APIs to inject and stitch them on the pre-processed data as per the original sequence of steps followed for Brickification.
 
