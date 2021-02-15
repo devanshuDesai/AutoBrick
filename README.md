@@ -1,3 +1,5 @@
+[Link To Webpage](https://devanshudesai.github.io/)
+
 ## Background and Motivation
 
 Several commercial buildings today have sought to leverage the power of cyber-physical systems for optimal energy consumption, planned facility maintenance, machine learning (ML) applications etc to augment user experience. Their data collection / ETL methodologies, however, don’t conform to a uniform schema to enable buildings to ‘interact’ with each other or streamline the process of analytics and ML at scale. In-fact, the US building industry suffers a loss of $1.5B / year simply due to the lack of interoperable warehousing between different buildings [1](#ref1).
