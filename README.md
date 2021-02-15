@@ -38,8 +38,8 @@ With AutoBrick, we plan to expand the API to add support for novel real-world us
 ### References
 1.<a name="ref1"></a> [Brick: Towards a Unified Schema For Buildings](https://brickschema.org/papers/Brick-BuildSys-2016-Balaji.pdf])
 
-2.<a name="ref2"></a> (AutoBrickify)[https://github.com/Advitya17/AutoBrickify]
+2.<a name="ref2"></a> [AutoBrickify](https://github.com/Advitya17/AutoBrickify)
 
-3.<a name="ref3"></a> (Microelectronic Embedded Systems Laboratory - UCSD)[mesl.ucsd.edu]
+3.<a name="ref3"></a> [Microelectronic Embedded Systems Laboratory - UCSD](mesl.ucsd.edu)
 
-4.<a name="ref4"></a> (ARENA)[https://arena.conix.io/]
+4.<a name="ref4"></a> [ARENA](https://arena.conix.io/)
