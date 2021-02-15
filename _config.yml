@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-title: AutoBrickify + ARENA Front End for BRICK
+title: AutoBrick
+description: A system for end-to-end automation of building point labels to Brick turtle files
