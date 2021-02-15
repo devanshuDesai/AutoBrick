@@ -1,6 +1,6 @@
 ## Background and Motivation
 
-Several commercial buildings today have sought to leverage the power of cyber-physical systems for optimal energy consumption, planned facility maintenance, machine learning (ML) applications etc to augment user experience. Their data collection / ETL methodologies, however, don’t conform to a uniform schema to enable buildings to ‘interact’ with each other or streamline the process of analytics and ML at scale. In-fact, the US building industry suffers a loss of $1.5B / year simply due to the lack of interoperable warehousing between different buildings [1].
+Several commercial buildings today have sought to leverage the power of cyber-physical systems for optimal energy consumption, planned facility maintenance, machine learning (ML) applications etc to augment user experience. Their data collection / ETL methodologies, however, don’t conform to a uniform schema to enable buildings to ‘interact’ with each other or streamline the process of analytics and ML at scale. In-fact, the US building industry suffers a loss of $1.5B / year simply due to the lack of interoperable warehousing between different buildings [1](#ref1).
 
 ‘Brick’ is a building metadata schema directly addressing these issues by defining uniform and diverse vocabulary to represent and store data related to building objects and characteristics, and has delivered promising results in terms of uniformly representing data for diverse buildings across various locations.
 
@@ -20,7 +20,7 @@ As symbolized in the figure, the data transformations and most of the API inject
 
 ### Our Proposed Framework - AutoBrick
 
-We introduce ‘AutoBrick’, an end-to-end system for automating and accelerating the conversion of point labels into turtle files with Brick terminology and which can be visualized and queried [2]. The tool takes in a configuration file where users can declaratively specify all details about their data and workload (related to data location, point label format details, and auxiliary parsing details).
+We introduce ‘AutoBrick’, an end-to-end system for automating and accelerating the conversion of point labels into turtle files with Brick terminology and which can be visualized and queried [2](#ref2). The tool takes in a configuration file where users can declaratively specify all details about their data and workload (related to data location, point label format details, and auxiliary parsing details).
 
 *(Add Image Here)*
 
@@ -33,10 +33,10 @@ AutoBrick boasts versatility of usage and functionality in terms of arbitrary cs
 Initial experiments and demos have already showcased AutoBrickify reducing ~10-15 mins of manual grunt work (as showcased in the traditional workflow) to a matter of <10 seconds, achieving orders-of-magnitude speed-ups and scalability!
 
 ### Future Work
-With AutoBrick, we plan to expand the API to add support for novel real-world use cases by consulting the research lab originally involved in Brick [3]. We also plan to leverage the output turtle files and build proof-of-concept virtual spaces for buildings using VR environments such as ARENA [4].
+With AutoBrick, we plan to expand the API to add support for novel real-world use cases by consulting the research lab originally involved in Brick [3](#ref3). We also plan to leverage the output turtle files and build proof-of-concept virtual spaces for buildings using VR environments such as ARENA [4](#ref4).
 
 ### References
-1. (Brick: Towards a Unified Schema For Buildings)[https://brickschema.org/papers/Brick-BuildSys-2016-Balaji.pdf]
-2. (AutoBrickify)[https://github.com/Advitya17/AutoBrickify]
-3. (Microelectronic Embedded Systems Laboratory - UCSD)[mesl.ucsd.edu]
-4. (ARENA)[https://arena.conix.io/]
+1.<a name="ref1"></a> (Brick: Towards a Unified Schema For Buildings)[https://brickschema.org/papers/Brick-BuildSys-2016-Balaji.pdf]
+2.<a name="ref2"></a> (AutoBrickify)[https://github.com/Advitya17/AutoBrickify]
+3.<a name="ref3"></a> (Microelectronic Embedded Systems Laboratory - UCSD)[mesl.ucsd.edu]
+4.<a name="ref4"></a> (ARENA)[https://arena.conix.io/]
