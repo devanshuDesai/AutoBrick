@@ -26,7 +26,7 @@ As symbolized in the figure, the data transformations and most of the API inject
 
 We introduce ‘AutoBrick’, an end-to-end system for automating and accelerating the conversion of point labels into turtle files with Brick terminology and which can be visualized and queried [[2]](#ref2). The tool takes in a configuration file where users can declaratively specify all details about their data and workload (related to data location, point label format details, and auxiliary parsing details).
 
-![Proposed Framework](https://i.ibb.co/zFpTQhv/pages-2.jpg)
+![Proposed Framework](https://i.ibb.co/NSxDcJZ/pages-2.jpg)
 
 AutoBrick infers and automates all needed data transformations to pre-process the point labels and extract relevant details of various units/sensors and categories related to specific building objects. AutoBrick utilizes pre-written / pre-loaded standard ER/RDF specifications and existing APIs to inject and stitch them on the pre-processed data as per the original sequence of steps followed for Brickification.
 
