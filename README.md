@@ -1,3 +1,5 @@
+#### Created by Devanshu Desai & Advitya Gemawat
+
 [Link To Webpage](https://devanshudesai.github.io/)
 
 ## Background and Motivation
@@ -38,10 +40,10 @@ Initial experiments and demos have already showcased AutoBrickify reducing ~10-1
 With AutoBrick, we plan to expand the API to add support for novel real-world use cases by consulting the research lab originally involved in Brick [3](#ref3). We also plan to leverage the output turtle files and build proof-of-concept virtual spaces for buildings using VR environments such as ARENA [4](#ref4).
 
 ### References
-1.<a name="ref1"></a> [Brick: Towards a Unified Schema For Buildings](https://brickschema.org/papers/Brick-BuildSys-2016-Balaji.pdf])
+[1]<a name="ref1"></a> [Brick: Towards a Unified Schema For Buildings](https://brickschema.org/papers/Brick-BuildSys-2016-Balaji.pdf)
 
-2.<a name="ref2"></a> [AutoBrickify](https://github.com/Advitya17/AutoBrickify)
+[2]<a name="ref2"></a> [AutoBrickify](https://github.com/Advitya17/AutoBrickify)
 
-3.<a name="ref3"></a> [Microelectronic Embedded Systems Laboratory - UCSD](mesl.ucsd.edu)
+[3]<a name="ref3"></a> [Microelectronic Embedded Systems Laboratory - UCSD](mesl.ucsd.edu)
 
-4.<a name="ref4"></a> [ARENA](https://arena.conix.io/)
+[4]<a name="ref4"></a> [ARENA](https://arena.conix.io/)
