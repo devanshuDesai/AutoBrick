@@ -1,6 +1,6 @@
 #### Created by Devanshu Desai & Advitya Gemawat
 
-[Link To Webpage](https://devanshudesai.github.io/)
+[Link To Webpage](https://devanshudesai.github.io/AutoBrick)
 
 ## Background and Motivation
 
