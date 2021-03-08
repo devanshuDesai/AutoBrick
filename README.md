@@ -52,8 +52,8 @@ Last but not the least, we also explored mapping physical building spaces into v
 
 [4]<a name="ref4"></a> [ARENA](https://arena.conix.io/)
 
-[5]<a name="ref5"></a> [ARENA](https://www.youtube.com/watch?v=LKcXMvrxXzE)
+[5]<a name="ref5"></a> [Making a Brick Model with OpenRefine + Brick Builder](https://www.youtube.com/watch?v=LKcXMvrxXzE)
 
-[6]<a name="ref6"></a> [ARENA](https://github.com/BrickSchema/reconciliation-api)
+[6]<a name="ref6"></a> [Reconciliation API](https://github.com/BrickSchema/reconciliation-api)
 
-[7]<a name="ref7"></a> [ARENA](https://github.com/gtfierro/brick-builder)
+[7]<a name="ref7"></a> [Brick Builder](https://github.com/gtfierro/brick-builder)
